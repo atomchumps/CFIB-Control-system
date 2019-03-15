@@ -1,0 +1,47 @@
+###########################################
+# Physical addresses of the NI DAQ system #
+###########################################
+#Counters
+Counter 1, /Dev6229/ctr0 #CFIB (CEM detector)
+Counter 2, /Dev6229/ctr1 #Testing (Sig. gen)
+#######################################
+#Analogue inputs
+AI01, /Dev6229/ai0 #Cavity locking (PD)
+AI02, /Dev6229/ai1 #Terranova (ion pump pressure monitor)
+AI03, /Dev6229/ai2 #Currently unused
+AI04, /Dev6229/ai3 #Currently unused
+AI05, /Dev6229/ai4 #Currently unused
+AI06, /Dev6229/ai5 #Currently unused
+AI07, /Dev6229/ai6 #Currently unused
+AI08, /Dev6229/ai7 #Currently unused
+AI09, /Dev6229/ai8 #Currently unused
+AI10, /Dev6229/ai9 #Currently unused
+AI11, /Dev6229/ai10 #Currently unused
+AI12, /Dev6229/ai11 #Currently unused
+AI13, /Dev6229/ai12 #Currently unused
+AI14, /Dev6229/ai13 #Currently unused
+AI15, /Dev6229/ai14 #Currently unused
+AI16, /Dev6229/ai15 #Currently unused
+AI17, /Dev6229/ai16 #Currently unused
+AI18, /Dev6229/ai17 #Currently unused
+AI19, /Dev6229/ai18 #Currently unused
+AI20, /Dev6229/ai19 #Currently unused
+AI21, /Dev6229/ai20 #Currently unused
+AI22, /Dev6229/ai21 #Currently unused
+AI23, /Dev6229/ai22 #Currently unused
+AI24, /Dev6229/ai23 #Currently unused
+AI25, /Dev6229/ai24 #Currently unused
+AI26, /Dev6229/ai25 #Currently unused
+AI27, /Dev6229/ai26 #Currently unused
+AI28, /Dev6229/ai27 #Currently unused
+AI29, /Dev6229/ai28 #Currently unused
+AI30, /Dev6229/ai29 #Currently unused
+AI31, /Dev6229/ai30 #Currently unused
+AI32, /Dev6229/ai31 #Currently unused
+#######################################
+#Analogue outputs
+AO01, /Dev6229/ao0 #CFIB (Proportional CEM output)
+AO02, /Dev6229/ao1 #Currently unused
+AO03, /Dev6229/ao2 #Currently unused
+AO04, /Dev6229/ao3 #Currently unused
+AO05, /Dev6229/ao4 #Currently unused

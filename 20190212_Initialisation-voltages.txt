@@ -1,0 +1,21 @@
+#Deflector voltages (1kV)
+e1,0
+e2,0
+e3,0
+e4,0
+e5,0
+e6,0
+e7,0
+e8,0
+#Einzel lens voltages (20kV)
+e9,0
+e10,0
+#Main lens
+e11, -100
+#CEM (-10kV)
+e17, -110
+#Electrodes (30 kV)
+e21, 120
+e22, 130
+e25, 140
+e26, 150
