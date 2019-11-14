@@ -10,11 +10,12 @@ import ctypes
 def main():
 
 
-    counter_in_physchan = '/Dev6229/ctr1'
+    #counter_in_physchan = '/Dev6229/ctr0' # User 2 of board 1
+    counter_in_physchan = '/Dev6229/ctr1' # PFI 3 of board 1
     ao_physchan = '/Dev6229/ao0'
 
     sleep_time = 0.025
-    max_count_rate = 5000
+    max_count_rate = 10000
     smoothing_time_constant = 1
     #overcount is the number of times the counter is returning a value greater than max_count_rate
     overcount = 0
